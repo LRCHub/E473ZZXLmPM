@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Frontiers",
+  "base_artist": "Awich",
+  "createdAt": "2026-02-08T12:48:41.167399Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Games Without Frontiers",
+      "artist": "Peter Gabriel",
+      "has_synced": false,
+      "path": "select/01_Games_Without_Frontiers_Peter_Gabriel.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Frontiers",
+      "artist": "W O L F C L U B feat. Indigo",
+      "has_synced": true,
+      "path": "select/02_Frontiers_W_O_L_F_C_L_U_B_feat._Indigo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Frontiers",
+      "artist": "W O L F C L U B",
+      "has_synced": true,
+      "path": "select/03_Frontiers_W_O_L_F_C_L_U_B.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "No Frontiers (Live)",
+      "artist": "The Corrs",
+      "has_synced": true,
+      "path": "select/04_No_Frontiers_(Live)_The_Corrs.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "No Frontiers",
+      "artist": "The Corrs",
+      "has_synced": true,
+      "path": "select/05_No_Frontiers_The_Corrs.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Frontiers",
+      "artist": "Journey",
+      "has_synced": false,
+      "path": "select/06_Frontiers_Journey.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "New Frontiers",
+      "artist": "DEMON",
+      "has_synced": false,
+      "path": "select/07_New_Frontiers_DEMON.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Games Without Frontiers",
+      "artist": "Peter Gabriel",
+      "has_synced": true,
+      "path": "select/08_Games_Without_Frontiers_Peter_Gabriel.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Games Without Frontiers",
+      "artist": "Arcade Fire",
+      "has_synced": true,
+      "path": "select/09_Games_Without_Frontiers_Arcade_Fire.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Games Without Frontiers",
+      "artist": "Peter Gabriel (SACD 2003 Remaster)",
+      "has_synced": true,
+      "path": "select/10_Games_Without_Frontiers_Peter_Gabriel_(SACD_2003_Remaster).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Frontiers",
+      "artist": "Raf",
+      "has_synced": false,
+      "path": "select/11_Frontiers_Raf.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "New Frontiers",
+      "artist": "Franco Battiato",
+      "has_synced": true,
+      "path": "select/12_New_Frontiers_Franco_Battiato.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "New Frontiers",
+      "artist": "Franco Battiato",
+      "has_synced": false,
+      "path": "select/13_New_Frontiers_Franco_Battiato.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "New Frontiers - 2008 - Remaster;",
+      "artist": "Franco Battiato",
+      "has_synced": true,
+      "path": "select/14_New_Frontiers_-_2008_-_Remaster;_Franco_Battiato.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Games Without Frontiers",
+      "artist": "Peter Gabriel",
+      "has_synced": true,
+      "path": "select/15_Games_Without_Frontiers_Peter_Gabriel.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Frontiers",
+      "artist": "Journey [expanded 2006]",
+      "has_synced": false,
+      "path": "select/16_Frontiers_Journey_[expanded_2006].txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Frontiers",
+      "artist": "Awich",
+      "has_synced": false,
+      "path": "select/pl_01_Frontiers_Awich.txt"
+    }
+  ]
+}
